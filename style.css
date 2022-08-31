@@ -1,0 +1,123 @@
+
+*{
+  background-color: saddlebrown;
+}
+.banner{
+color:white;
+background-color: orange;
+height: 10vh;
+left: 25%;
+text-align: center;
+}
+.intu{
+
+    color: white;
+height: 5vh;
+font-size: 10px;
+background-color: saddlebrown;
+margin-top: 45px;
+
+}
+.texto{
+  color: white;
+  background-color:saddlebrown ;
+  margin-top: 30px;
+}
+.linkk{
+  color: white;
+  background-color: saddlebrown;
+  height: 10vh;
+}
+.imagen{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: 28vh;
+  background-size: cover;
+  background-image: url(arboles.jpg);
+}
+
+.slider{
+  width: 100%;
+  height: 200px;
+  margin: 0%;
+  overflow: center;
+  justify-content: center;
+}
+.slider ul{
+  display: flex;
+width: 90%;
+
+}
+.slider li{
+  width: 100%;
+  list-style: none;
+  margin: 15px;
+  justify-content: center;
+}
+.slider img{
+  width: 100%;
+  height: 100%;
+  margin: 15px;
+}
+.texto li{
+  text-align: center;
+  list-style: none;
+}
+
+.titulo2{
+  display: flex;
+  color: white;
+  height: 8vh;
+  font-size: 13px;
+  background-color: saddlebrown;
+  margin-top: 100px;
+}
+.innovacion{
+  display: flex;
+  width: 90%;
+  margin: 0%;
+  overflow: center;
+  justify-content:space-around;
+  
+}
+.innovacion ul{
+  display: flex;
+width: 90%;
+justify-content: center;
+
+}
+.innovacion li{
+  width: 100%;
+  list-style: none;
+  margin: 15px;
+  justify-content: center;
+}
+.innovacion img{
+  width: 100%;
+  height: 100%;
+  margin: 15px;
+}
+.texto li{
+  text-align: center;
+  list-style: none;
+}
+.texto1{
+  margin-top: 110px;
+  text-align: center;
+  display: flex;
+  align-items: center;
+  background-color: saddlebrown;
+  height: 8vh;
+  color: white;
+}
+.precio{
+  text-align: center;
+  background-color: saddlebrown;
+  height: 8vh;
+  color: white;
+}
+.datos{
+  text-align: center;
+}
